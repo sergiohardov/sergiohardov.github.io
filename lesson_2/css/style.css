@@ -1,0 +1,48 @@
+body {
+	background: #0ff;
+}
+
+h1 {
+	color: green;
+ text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+h3 {
+	text-transform: uppercase;
+ color: green;
+ text-align: center;
+}
+
+h4 {
+	text-align: center;
+}
+
+#main {
+	border: 2px solid #000;
+}
+
+.contents {
+	font-size: 30px;
+ font-weight: bold;
+}
+ 
+.ImgCenter {
+ display: block;
+ margin: 0 auto;
+ }
+ 
+.bold {
+	font-weight: bold;
+}
+
+.italic {
+	font-style: italic;
+}
+
+a {
+background: rgba(255,150,0,0.3);
+}
