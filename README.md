@@ -8,3 +8,4 @@
 * [Урок 4](sergiohardov.github.io/lesson_4/ "Описание") - Верстка первого макета.
 * [Урок 5](sergiohardov.github.io/lesson_5/ "Описание") - Ускорение верстки в разы.
 * [Урок 6](sergiohardov.github.io/lesson_6/ "Описание") - Верстка при помощи bootstrap.
+* [Урок 7](sergiohardov.github.io/lesson_7/ "Описание") - Пиксель перфект.
