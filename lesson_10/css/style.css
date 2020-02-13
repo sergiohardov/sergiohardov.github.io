@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+@font-face {
+    font-family: 'ofont_ru_BebasNeue';
+    src: url('../fonts/ofont_ru_BebasNeue.eot');
+    src: url('../fonts/ofont_ru_BebasNeue.eot') format('embedded-opentype'),
+         url('../fonts/ofont_ru_BebasNeue.woff2') format('woff2'),
+         url('../fonts/ofont_ru_BebasNeue.woff') format('woff'),
+         url('../fonts/ofont_ru_BebasNeue.ttf') format('truetype'),
+         url('../fonts/ofont_ru_BebasNeue.svg#ofont_ru_BebasNeue') format('svg');
+}
+@font-face {
+	font-family: 'Conv_LatoRegular';
+	src: url('../fonts/LatoRegular.eot');
+	src: local('☺'), url('../fonts/LatoRegular.woff') format('woff'), url('../fonts/LatoRegular.ttf') format('truetype'), url('../fonts/LatoRegular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+.text-box{
+	padding-top: 2rem;
+}
+.result {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}
+
+
+.text-one {
+	font-family: 'Open Sans', sans-serif;
+}
+.text-two {
+	font-family: 'ofont_ru_BebasNeue', sans-serif;
+}
+.text-three{
+	font-family: 'Conv_LatoRegular', cursive;
+}
+.text-four {
+	font-family: 'Lobster', cursive;
+}
