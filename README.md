@@ -10,3 +10,4 @@
 * [Урок 6](sergiohardov.github.io/lesson_6/ "Описание") - Верстка при помощи bootstrap.
 * [Урок 7](sergiohardov.github.io/lesson_7/ "Описание") - Пиксель перфект.
 * [Урок 8](sergiohardov.github.io/lesson_8/ "Описание") - Практика. Верстка шапки.
+* [Урок 10](sergiohardov.github.io/lesson_10/ "Описание") - Подключение шрифтов.
