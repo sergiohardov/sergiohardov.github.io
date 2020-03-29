@@ -11,3 +11,5 @@
 * [Урок 7](sergiohardov.github.io/lesson_7/ "Описание") - Пиксель перфект.
 * [Урок 8](sergiohardov.github.io/lesson_8/ "Описание") - Практика. Верстка шапки.
 * [Урок 10](sergiohardov.github.io/lesson_10/ "Описание") - Подключение шрифтов.
+*
+* [Интенсив](sergiohardov.github.io/batman/ "Описание") - 4х-дневный интенсив по верстке сайта Batman
