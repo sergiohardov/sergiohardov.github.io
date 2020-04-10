@@ -13,3 +13,4 @@
 * [Урок 10](sergiohardov.github.io/lesson_10/ "Описание") - Подключение шрифтов.
 *
 * [Интенсив](sergiohardov.github.io/batman/ "Описание") - 4х-дневный интенсив по верстке сайта Batman
+* [Интенсив](sergiohardov.github.io/deliveryfoods/ "Описание") - 4х-дневный интенсив по верстке сайта Batman
